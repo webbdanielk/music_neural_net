@@ -8,5 +8,7 @@ I will try to do this using Python.
 
 Inspiration: Generative Adversarial Nets, Goodfellow et al. 2014
 
+http://www.github.com/goodfeli/adversarial
+
 
  
